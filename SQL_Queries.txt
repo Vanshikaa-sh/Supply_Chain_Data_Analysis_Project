@@ -1,0 +1,16 @@
+Find the total number of orders placed.
+List all unique carriers used for shipments.
+Show all orders shipped late by more than 5 days.
+Retrieve the top 5 customers who placed the highest number of orders.
+
+Calculate total quantity and average shipment weight per plant.
+Find the total shipping weight handled by each carrier.
+Join orders and productpercost to list all products shipped from each plant.
+Combine orders and whcapacities to compare each plant’s total shipped quantity vs its daily capacity.
+
+Identify the top-performing plant based on total shipped units.
+Find plants where total shipped weight exceeds 90% of their daily capacity.
+Calculate estimated total cost per plant by joining with whcosts.
+Find the top 3 customers by shipping weight, along with their most used carrier
+Find the rank of each plant based on total units ordered (highest to lowest).
+Show the cumulative units ordered over time.
