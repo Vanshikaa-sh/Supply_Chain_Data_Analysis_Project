@@ -36,10 +36,7 @@ SELECT * from whcosts;
 SELECT * FROM orders;
 SELECT * FROM productperplant;
 
-ALTER TABLE orders
-ADD CONSTRAINT fk_product
-FOREIGN KEY (product_id, plant_code)
-REFERENCES productpercost (product_id, plant_code);
+
 
 
 
